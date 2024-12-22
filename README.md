@@ -71,17 +71,3 @@ Customer segmentation helps businesses understand their audience and tailor mark
 #### Key Insights:  
 The system effectively identifies spam emails, demonstrating the utility of text-related features and model diversity.  
 
-## Repository Structure  
-```plaintext
-📂 Credit_Card_Fraud_Detection/  
-    ├── data/  
-    ├── notebooks/  
-    └── results/  
-📂 Customer_Segmentation/  
-    ├── data/  
-    ├── notebooks/  
-    └── results/  
-📂 Email_Spam_Detection/  
-    ├── data/  
-    ├── notebooks/  
-    └── results/  
